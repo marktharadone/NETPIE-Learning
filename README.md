@@ -2,13 +2,13 @@
 Used for education
 
 ####################################################################
-NETPIE Application Link: https://www.youtube.com/watch?v=7XDMRAvZU7Y
+ NETPIE Application Link: https://www.youtube.com/watch?v=7XDMRAvZU7Y
 ####################################################################
 
 ####################################################################
-NETPIE Freeboard Link: https://www.youtube.com/watch?v=NUwDQRbeGh0
+ NETPIE Freeboard Link: https://www.youtube.com/watch?v=NUwDQRbeGh0
 ####################################################################
 
 ####################################################################
-NETPIE Feeds Link: https://www.youtube.com/watch?v=-A4liECSDjI&t=46s
+ NETPIE Feeds Link: https://www.youtube.com/watch?v=-A4liECSDjI&t=46s
 ####################################################################
