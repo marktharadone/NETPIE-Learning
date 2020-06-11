@@ -1,12 +1,12 @@
 #include "MicroGear.h"
 #include "WiFi.h"
 
-const char* ssid     = "Roongruang2";
-const char* password = "rr123p456";
+const char* ssid     = "XXXXXXXX";
+const char* password = "XXXXXXXX";
 
-#define APPID   "CTRLBulb"
-#define KEY     "lb3sq4TOnpsHtdo"
-#define SECRET  "cJSxO3dyOgsj7t1wWiiqNfkdm"
+#define APPID   "XXXXXXXX"
+#define KEY     "XXXXXXXX"
+#define SECRET  "XXXXXXXX"
 #define ALIAS   "KidBrightB"
 
 #define Relay 18
