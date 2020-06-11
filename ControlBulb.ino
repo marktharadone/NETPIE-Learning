@@ -113,7 +113,7 @@ void loop()
     {
       Serial.println("Publish...");
       int LDR = analogRead(36);
-      int A = 1000-LDR;
+      int A = 300-LDR;
       microgear.chat(ALIAS, "Ready");
       microgear.publish("/gearname/KidBrightB/light", A);
       timer = 0;
